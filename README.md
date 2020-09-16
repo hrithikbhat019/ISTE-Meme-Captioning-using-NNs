@@ -1,4 +1,6 @@
 # ISTE-Meme-Captioning-using-NNs
+
+# Description
 Memes have become ubiquitous as a means to share information cloaked in humour and cultural themes. With rapid development in the field of computer vision and Natural Language Processing (NLP), neural networks can indeed generate them. By Using CNNs to extract Image Features and Using RNNs with State-of-the-art attention models, Neural Networks can generate captions for a given image. Can Neural Networks generate memes as good as humans ? We aim to answer this question through our project. 
 
 # Literature Review
